@@ -5,39 +5,23 @@
 **Robotics Engineer | ROS Developer | C++ | Perception & Navigation Systems**  
 📍 Open to relocation  
 📧 cool.ol.31.05@gmail.com  
-🔗 GitHub · Telegram · Habr  
-
----
-
-## About Me
-
-I am a **Robotics Engineer** with hands-on experience in designing and implementing
-**perception, localization, and navigation systems for mobile robots**.
-
-My work spans the full robotics stack:
-- low-level sensor integration,
-- perception and SLAM,
-- localization and relocalization,
-- global and local navigation,
-- motion control and system integration.
 
 ---
 
 ## Projects
 
 
-| Project | Language | Tech Stack |
-|-----------------|------------------------|----------------------|
-| **Socially-Aware Navigation for Companion Robots** | <img src="https://skillicons.dev/icons?i=cpp">| pybind11, Social Force Model, Bayes goal search|
+| Project | Language | Tech Stack | Repository |
+|-----------------|------------------------|----------------------|----------------------|
+| **Socially-Aware Navigation for Companion Robots** | <img src="https://skillicons.dev/icons?i=cpp">| pybind11, Social Force Model, Bayes goal prediction|https://github.com/oliaiaia/social-navigation|
 | **Localization with LiDAR** | <img src="https://skillicons.dev/icons?i=cpp"> | ROS2, Eigen, PCL, EKF, NDT-Matching|
 | **Relocalization with LiDAR** | <img src="https://skillicons.dev/icons?i=cpp"> | ROS2, Eigen, PCL, ICP, RANSAC, occupancy grid |
-| **RRT — Rapid Random Tree Planner** | <img src="https://skillicons.dev/icons?i=cpp"> | Eigen, pybind11, RRT |
-| **aStartStick — Discrete-Angle A-star Planner** | <img src="https://skillicons.dev/icons?i=cpp"> | Eigen, pybind11, A*, C-space |
-| **Kalman / Extended Kalman Filters** | <img src="https://skillicons.dev/icons?i=cpp"> | Eigen, linear & non-linear KF, matrix |
-| **Policy Planning — MDP / Cost-to-Go Planner** | <img src="https://skillicons.dev/icons?i=cpp"> | Eigen, pybind11, MDP, Value Iteration |
-| **Global Path Planning & Navigation** | <img src="https://skillicons.dev/icons?i=cpp"> | ROS2, A*, graph-map, trajectory smoothing |
-| **Perception & Mapping** | <img src="https://skillicons.dev/icons?i=cpp"> | PCL, RANSAC, segmentation, Concave Hull, occupancy grid, kd-tree |
-| **Embedded & Low-Level Systems** | <img src="https://skillicons.dev/icons?i=c"> | STM32, ESP32, UART, I2C, GPIO, Wiegand, Altium, COMSOL |
+| **RRT — Rapid Random Tree Planner** | <img src="https://skillicons.dev/icons?i=cpp"> | Eigen, pybind11, RRT |https://github.com/oliaiaia/rrt|
+| **aStartStick — Discrete-Angle A-star Planner** | <img src="https://skillicons.dev/icons?i=cpp"> | Eigen, pybind11, A*, C-space |https://github.com/oliaiaia/aStartStick|
+| **Kalman / Extended Kalman Filters** | <img src="https://skillicons.dev/icons?i=cpp"> | Eigen, linear & non-linear KF, matrix |https://github.com/oliaiaia/KF|
+| **Policy Planning — MDP / Cost-to-Go Planner** | <img src="https://skillicons.dev/icons?i=cpp"> | Eigen, pybind11, MDP, Value Iteration |https://github.com/oliaiaia/policy_planning|
+| **Global Path Planning** | <img src="https://skillicons.dev/icons?i=cpp"> | ROS2, A*, graph-map, trajectory smoothing |
+| **Obstacles detection** | <img src="https://skillicons.dev/icons?i=cpp"> | PCL, RANSAC, segmentation, Concave Hull, occupancy grid, kd-tree |
 <details>
  <summary><strong>BIG description</strong></summary>
 
@@ -98,7 +82,7 @@ A high-performance C++ library implementing Markov Decision Processes (MDP) and 
 
 ---
 
-###  Global Path Planning & Navigation
+###  Global Path Planning 
 **C++ · ROS**
 
 - Global planner based on a road graph and A*
@@ -107,7 +91,7 @@ A high-performance C++ library implementing Markov Decision Processes (MDP) and 
 
 ---
 
-### Perception & Mapping
+### Obstacles detection
 **C++ · PCL**
 
 - Point cloud filtering and segmentation
@@ -117,15 +101,6 @@ A high-performance C++ library implementing Markov Decision Processes (MDP) and 
 
 ---
 
-### Embedded & Low-Level Systems
-**C · C++ · STM32 · ESP32**
-
-- Microcontroller programming
-- Sensor integration and communication (UART, I2C, GPIO, Wiegand)
-- Development and debugging of embedded systems
-- Electronics design and simulation (Altium, MicroCap, COMSOL)
-
----
 </details>
 
 ## Tech Stack
@@ -134,10 +109,7 @@ A high-performance C++ library implementing Markov Decision Processes (MDP) and 
 C++, Python, Bash
 
 **Robotics & Middleware:**  
-ROS / ROS2, Navigation Stack, SLAM
-
-**Perception:**  
-PCL, OpenCV, Eigen
+ROS / ROS2, Navigation Stack, SLAM, PCL, OpenCV, Eigen
 
 **Embedded & Hardware:**  
 STM32, ESP32, Arduino, electronics design
@@ -147,35 +119,12 @@ Docker, Git, CMake, Gazebo
 
 ---
 
-## Experience Highlights
-
-**ROS Developer — Automakon (2025–Present)**  
-- Localization and relocalization with 3D LiDAR and wheel odometry  
-- Global route planning  
-- Obstacle detection and occupancy grid mapping  
-- Mission Manager for task execution  
-
-**Engineer — MTS Digital (2024–2025)**  
-- ROS2 nodes for encoders and LiDAR  
-- Motor control with PID  
-- SLAM testing and evaluation  
-- Robot simulation in Gazebo  
-
----
-
 ## Competitions & Research
 
 - Prize Winner — Walking Robot Hackathon (2024)
 - Winner — Aerospace Engineering School (Weather Balloon Project)
 - BRD Robotics Finalist (Team Captain)
 - RSCI Publications in robotics and applied electronics
-
----
-
-## Languages
-
-- Russian — Native
-- English — B2
 
 ---
 

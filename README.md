@@ -22,8 +22,11 @@
 | **Policy Planning — MDP / Cost-to-Go Planner** | <img src="https://skillicons.dev/icons?i=cpp"> | Eigen, pybind11, MDP, Value Iteration |https://github.com/oliaiaia/policy_planning|
 | **Global Path Planning** | <img src="https://skillicons.dev/icons?i=cpp"> | ROS2, A*, graph-map, trajectory smoothing |
 | **Obstacles detection** | <img src="https://skillicons.dev/icons?i=cpp"> | PCL, RANSAC, segmentation, Concave Hull, occupancy grid, kd-tree |
+
 <details>
  <summary><strong>BIG description</strong></summary>
+
+![alt text](running_cat.gif)
 
 ### Socially-Aware Navigation for Companion Robots
 **C++ · Python · pybind11**
@@ -134,7 +137,7 @@ Docker, Git, CMake, Gazebo
 - Email: cool.ol.31.05@gmail.com
 - Telegram : @oliaiaia
 
-
+![alt text](fire.gif)
 <!--
 **oliaiaia/oliaiaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
